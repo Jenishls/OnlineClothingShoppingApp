@@ -74,7 +74,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp">
-            <EditText android:id="@+id/etConfim"
+            <EditText android:id="@+id/etConfirm"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="textPassword"
@@ -92,13 +92,6 @@
             android:textColor="#FFF"
             android:text="Register"/>
 
-        <TextView android:id="@+id/linkLogin"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="24dp"
-            android:text="Already have an account? Login"
-            android:gravity="center"
-            android:textSize="16dip"/>
 
     </LinearLayout>
 
